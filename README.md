@@ -13,7 +13,7 @@ More modules and lectures will be added as they are published. ⭐ Star this rep
 
 Pick a module from the index above and watch the lectures in session order.
 
-Practise the tutorial problems and try the same constructions in JFLAP.
+Practise the tutorial problems and try the same constructions.
 
 Check the mapped CO and Bloom level of each topic to focus your exam preparation.
 
