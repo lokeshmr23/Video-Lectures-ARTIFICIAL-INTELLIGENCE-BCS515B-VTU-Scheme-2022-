@@ -1,4 +1,5 @@
 Module 1: Introduction and Intelligent Agents (08 hours | CO1)
+
 Lecture	Topic	Video
 
 M1-L1	What is AI	Watch on YouTube https://youtu.be/hxLnlaamRRY
