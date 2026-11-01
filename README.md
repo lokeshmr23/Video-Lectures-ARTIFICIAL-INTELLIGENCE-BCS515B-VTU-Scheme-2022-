@@ -6,6 +6,14 @@
 | M1-L2 | The state of the art| [Watch on YouTube](https://youtu.be/a8jNHiQgjVI) |
 | M1-L3 | Agents and environment| [Watch on YouTube](https://youtu.be/PVkJXvDQVL8). |
 | M1-L4 | The concept of rationality| [Watch on YouTube](https://youtu.be/8xF0qLlcTIk). |
+| M1-L5 | The nature of environments| [Watch on YouTube](https://youtu.be/NPEbHW2wRhE). |
+| M1-L6 | Properties of task environments| [Watch on YouTube](https://youtu.be/yACyK7WKyaI). |
+| M1-L7 | The structure of agents| [Watch on YouTube](https://youtu.be/cnziq3ega6Q). |
+| M1-L8 | Goal-based, utility-based and learning agents| [Watch on YouTube](https://youtu.be/oBVXWeUg_aY). |
+
+### Module 2: Problem-Solving and Uninformed Search (08 hours | CO2)
+**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
 
 More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES ARTIFICIAL INTELLIGENCE Semester V | Course Code: BCS515B | Credits: 03
 
