@@ -8,3 +8,24 @@
 
 
 More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES ARTIFICIAL INTELLIGENCE Semester V | Course Code: BCS515B | Credits: 03
+
+🤝 Contributing
+
+Found an error or want to suggest a topic or problem? Open an Issue or submit a Pull Request.
+
+🔗 Connect
+▶️ YouTube: [https://www.youtube.com/@Dr.LokeshMR]
+
+💼 LinkedIn: [https://www.linkedin.com/in/lokesh-m-r-b6880b169/]
+
+📸 Instagram: [https://www.instagram.com/lokeshmrmysore/]
+
+📢 Telegram: [https://web.telegram.org/a/#-1003930242341]
+
+💬 WhatsApp Channel: [https://whatsapp.com/channel/0029VbE13OS7dmeY7Rsgf12o]
+
+⚠️ Disclaimer
+
+These materials are for educational use and follow the VTU Scheme 2022 BCS515B syllabus. Always refer to the official VTU syllabus and your instructor's guidance for the latest updates.
+
+⭐ If this helped you, please star the repository and share it with your classmates!
