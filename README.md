@@ -9,6 +9,16 @@
 
 More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES ARTIFICIAL INTELLIGENCE Semester V | Course Code: BCS515B | Credits: 03
 
+🚀 How to Use This Repository
+
+Pick a module from the index above and watch the lectures in session order.
+
+Practise the tutorial problems and try the same constructions in JFLAP.
+
+Check the mapped CO and Bloom level of each topic to focus your exam preparation.
+
+Revisit the module revision and quiz session before each IA test and the SEE.
+
 🤝 Contributing
 
 Found an error or want to suggest a topic or problem? Open an Issue or submit a Pull Request.
