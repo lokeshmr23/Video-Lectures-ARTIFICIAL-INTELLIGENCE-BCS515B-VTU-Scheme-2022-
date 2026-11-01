@@ -5,7 +5,7 @@
 | M1-L1 | What is AI | [Watch on YouTube](https://youtu.be/hxLnlaamRRY) |
 | M1-L2 | The state of the art| [Watch on YouTube](https://youtu.be/a8jNHiQgjVI) |
 | M1-L3 | Agents and environment| [Watch on YouTube](https://youtu.be/PVkJXvDQVL8). |
-| M1-L4 | The concept of rationality| [Watch on YouTube](). |
+| M1-L4 | The concept of rationality| [Watch on YouTube](https://youtu.be/8xF0qLlcTIk). |
 
 More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES ARTIFICIAL INTELLIGENCE Semester V | Course Code: BCS515B | Credits: 03
 
